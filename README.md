@@ -4,6 +4,10 @@ Sebuah aplikasi pelacak kebiasaan (habit tracker) yang modern dan minimalis, dib
 
 ## Deskripsi & Fitur
 
+![tampilan utama](ss/1.png)
+![tampilan setting archive](ss/2.png)
+![tampilan crud](ss/3.png)
+
 **bitbithabit** dirancang untuk membantu pengguna membangun dan mempertahankan kebiasaan positif melalui pendekatan yang fleksibel dan visual. Tidak seperti aplikasi pelacak biasa, bitbithabit mendukung berbagai tipe habit sesuai kebutuhan pengguna.
 
 Fitur utama dari aplikasi ini meliputi:

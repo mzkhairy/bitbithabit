@@ -1,0 +1,2 @@
+-keep class * extends com.hive.HiveObject
+-keep class * implements com.hive.TypeAdapter
